@@ -14,7 +14,7 @@ img{
 	display:flex;
 	flex-wrap:wrap;
 	align-items:end;
-	flex-end:flex-end;
+	align-content:flex-end;
 	
 	
 	
