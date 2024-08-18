@@ -13,8 +13,7 @@ img{
 	/* justify-content:end; */
 	display:flex;
 	flex-wrap:wrap;
-	align-items:end;
-	align-content:flex-end;
+	align-items:flex-end;
 	
 	
 	
