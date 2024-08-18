@@ -7,10 +7,15 @@ img{
 }
 
 .cards{
-	display:grid;
-	grid-template-columns:1fr 1fr 1fr ;
-	align-items:baseline;
+	/* display:grid;
+	grid-template-columns:repeat(3,auto);
+	align-items:baseline; */
 	/* justify-content:end; */
+	display:flex;
+	flex-wrap:wrap;
+	align-items:end;
+	flex-end:end;
+	
 	
 	
 }
